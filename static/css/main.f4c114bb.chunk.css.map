@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Pagination/Pagination.css"],"names":[],"mappings":"AAAA,YACE,QACF","file":"main.f4c114bb.chunk.css","sourcesContent":[".pagination {\n  margin: 0;\n}\n"]}
